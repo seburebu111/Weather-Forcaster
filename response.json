@@ -1,0 +1,41 @@
+{
+    "request": {
+        "type": "City",
+        "query": "Delft, Netherlands",
+        "language": "en",
+        "unit": "m"
+    },
+    "location": {
+        "name": "Delft",
+        "country": "Netherlands",
+        "region": "South Holland",
+        "lat": "52.007",
+        "lon": "4.356",
+        "timezone_id": "Europe/Amsterdam",
+        "localtime": "2024-10-08 01:40",
+        "localtime_epoch": 1728351600,
+        "utc_offset": "2.0"
+    },
+    "current": {
+        "observation_time": "11:40 PM",
+        "temperature": 14,
+        "weather_code": 302,
+        "weather_icons": [
+            "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0034_cloudy_with_heavy_rain_night.png"
+        ],
+        "weather_descriptions": [
+            "Light Drizzle, Light Drizzle And Rain"
+        ],
+        "wind_speed": 19,
+        "wind_degree": 126,
+        "wind_dir": "SE",
+        "pressure": 996,
+        "precip": 1.1,
+        "humidity": 94,
+        "cloudcover": 75,
+        "feelslike": 13,
+        "uv_index": 1,
+        "visibility": 10,
+        "is_day": "no"
+    }
+}
