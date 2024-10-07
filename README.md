@@ -2,6 +2,8 @@
 
 Weather-Forcaster is a Python application that fetches and displays the current weather forecast for a specified city using the Weatherstack API.
 
+Enjoy the accurate weather forecasts and the occasional silly replicas of the bot!
+
 ## Project Structure
 
 ```
